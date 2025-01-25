@@ -9,8 +9,8 @@ from speech_code import speak_save, recognize_speech_save, speak_no_save, cleanu
 # Define your email account details
 IMAP_SERVER = 'imap.gmail.com'
 SMTP_SERVER = 'smtp.gmail.com'
-EMAIL_ACCOUNT = 'calebmagareombongi@gmail.com'
-PASSWORD = 'bseq qdpc uhna mpyt'
+EMAIL_ACCOUNT = 'your email'
+PASSWORD = 'your password'
 
 # Connect to IMAP server to read emails
 def read_emails():
